@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/90.Shooting/Scenes/Level1.unity
+    guid: cbafca3575c18d840a806ca1e0110e9a
+  - enabled: 1
+    path: Assets/90.Shooting/Scenes/Victory.unity
+    guid: acfbb1800db2dac4ea5b02f6c19c4794
+  - enabled: 1
+    path: Assets/90.Shooting/Scenes/GameOver.unity
+    guid: 53985bf9e6110b943a0c9a5de2dbdeb5
+  m_configObjects: {}
